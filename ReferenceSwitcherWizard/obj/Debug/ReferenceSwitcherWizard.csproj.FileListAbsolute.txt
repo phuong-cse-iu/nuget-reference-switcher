@@ -1,0 +1,7 @@
+c:\users\phuongttran\documents\visual studio 2017\Projects\ReferenceSwitcherWizard\ReferenceSwitcherWizard\bin\Debug\ReferenceSwitcherWizard.exe.config
+c:\users\phuongttran\documents\visual studio 2017\Projects\ReferenceSwitcherWizard\ReferenceSwitcherWizard\bin\Debug\ReferenceSwitcherWizard.exe
+c:\users\phuongttran\documents\visual studio 2017\Projects\ReferenceSwitcherWizard\ReferenceSwitcherWizard\bin\Debug\ReferenceSwitcherWizard.pdb
+c:\users\phuongttran\documents\visual studio 2017\Projects\ReferenceSwitcherWizard\ReferenceSwitcherWizard\obj\Debug\ReferenceSwitcherWizard.csprojResolveAssemblyReference.cache
+c:\users\phuongttran\documents\visual studio 2017\Projects\ReferenceSwitcherWizard\ReferenceSwitcherWizard\obj\Debug\ReferenceSwitcherWizard.csproj.CoreCompileInputs.cache
+c:\users\phuongttran\documents\visual studio 2017\Projects\ReferenceSwitcherWizard\ReferenceSwitcherWizard\obj\Debug\ReferenceSwitcherWizard.exe
+c:\users\phuongttran\documents\visual studio 2017\Projects\ReferenceSwitcherWizard\ReferenceSwitcherWizard\obj\Debug\ReferenceSwitcherWizard.pdb
