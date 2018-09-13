@@ -45,11 +45,15 @@ namespace ReferenceSwitcherWizard
         public static XElement BuildProjReferenceNode(ProjectReference projectReference)
         {   
             // <ProjectReference></ProjectReference>
-            var el = new XElement("ProjectReference");
+            var root = new XElement("ProjectReference");
             // <ProjectReference Include=""></ProjectReference>
-            el.Add(new XAttribute("Include", projectReference.Directory));
+            root.Add(new XAttribute("Include", projectReference.Directory));
+            
+            root.Add(new XElement("Project", projectReference.ProjectGuid));
+            root.Add(new XElement("Name", projectReference.ProjectName));
 
-            return el;
+
+            return root;
         }
     }
 }
